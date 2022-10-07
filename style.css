@@ -1,0 +1,10 @@
+.box {
+    border-style: solid;
+    border-color: black;
+    min-height: 20px;
+    padding: 5px;
+}
+
+.buttons {
+    margin-top: 10px;
+}
